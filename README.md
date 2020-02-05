@@ -1,5 +1,6 @@
-# Interactive_Story
-Interactice story about a mission to the mars.
+# Signals from Mars
+![Screenshot](signalsfrommars.png)
+Interactive story about a mission to the mars.
 
 ## Description
 Create your own adventure to the mars. Your choices decide how the story will end! Per page you will have two choices what you are going to do. Will you pick the right ones?
